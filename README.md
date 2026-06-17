@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Prashant
 
-<!--
-**prashantmadival582-cmd/prashantmadival582-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Skilled in Java, Spring Boot, MySQL, REST APIs, HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently enhancing my Full Stack Development skills through hands-on projects.
+
+🏥 Built projects like:
+- Hospital Management System
+- E-Commerce Application
+
+📫 Open to internships and entry-level software development opportunities.
+
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📂 Projects
+
+### 🏥 Hospital Management System
+REST API application built using Spring Boot and MySQL for managing patients, doctors, and appointments.
+
+### 🛒 E-Commerce Application
+Online shopping platform with product management, user authentication, and order processing.
+
+---
+⭐ Always learning and building new projects.
