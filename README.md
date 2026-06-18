@@ -30,7 +30,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/prashantmadival/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bth9d1vwfRreZq1S%2FdWG93g%3D%3D](https://www.linkedin.com/in/prashantmadival/)">
+<a href="https://www.linkedin.com/in/prashantmadival/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
