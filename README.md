@@ -1,76 +1,63 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | MySQL | REST APIs</h3>
 
-<div align="center">
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | MySQL | REST APIs</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Open+to+Software+Developer+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;REST+API+Developer;Backend+Development+Enthusiast;Open+to+Software+Developer+Roles" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 🌱 Currently learning **Advanced Spring Boot & Full Stack Development**
-- 💻 Passionate about **Backend Development**
-- 🔭 Working on **Java Full Stack Projects**
-- 🎯 Goal: Become a **Software Engineer**
-- 📫 Reach me at: **your-email@gmail.com**
-- 💼 Open to **Internships & Entry-Level Opportunities**
+* 🌱 Currently learning **Advanced Java Full Stack Development**
+* 💻 Skilled in **Java, Spring Boot, MySQL, REST APIs**
+* 🚀 Passionate about Backend Development
+* 🎯 Goal: Software Engineer
+* 📫 Reach me: **[yourmail@gmail.com](mailto:yourmail@gmail.com)**
+* 💼 Open to **Internships & Entry-Level Software Developer Roles**
+
+<br><br>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
@@ -87,41 +74,89 @@
 
 ### 🏥 Hospital Management System
 
-✔️ Spring Boot REST API  
-✔️ MySQL Database  
-✔️ CRUD Operations  
-✔️ Patient & Doctor Management  
-✔️ Appointment Scheduling  
+✔ Built using Spring Boot & MySQL
 
-### 🛒 E-Commerce Application
+✔ REST API Architecture
 
-✔️ User Authentication  
-✔️ Product Management  
-✔️ Shopping Cart  
-✔️ Order Processing  
-✔️ Spring Boot + MySQL  
+✔ Patient Management
+
+✔ Doctor Management
+
+✔ Appointment Scheduling
+
+✔ CRUD Operations
 
 ---
 
-## 🚀 Current Focus
+### 🛒 E-Commerce Application
+
+✔ User Authentication
+
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Order Processing
+
+✔ Spring Boot + MySQL
+
+✔ REST APIs
+
+---
+
+## 📚 Currently Learning
 
 ```java
 public class Prashant {
 
-    String role = "Java Full Stack Developer";
+    public static void main(String[] args) {
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "MySQL",
-        "REST APIs",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Git"
-    };
+        String[] skills = {
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "REST APIs",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "GitHub"
+        };
 
-    public void goal() {
-        System.out.println("Become a Software Engineer 🚀");
+        System.out.println("Future Software Engineer 🚀");
     }
 }
+```
+
+---
+
+## ⚡ Fun Fact
+
+```text
+while(!success){
+    learn();
+    practice();
+    buildProjects();
+    improve();
+}
+```
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master Spring Boot
+
+✅ Build Full Stack Applications
+
+✅ Solve DSA Problems Daily
+
+✅ Contribute to Open Source
+
+✅ Get Software Developer Role
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=150&section=footer"/>
+</p>
