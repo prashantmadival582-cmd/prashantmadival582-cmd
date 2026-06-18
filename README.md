@@ -20,7 +20,7 @@
 * 💻 Skilled in **Java, Spring Boot, MySQL, REST APIs**
 * 🚀 Passionate about Backend Development
 * 🎯 Goal: Software Engineer
-* 📫 Reach me: **[yourmail@gmail.com](mailto:yourmail@gmail.com)**
+* 📫 Reach me: **[prashantmadival582@gmail.com](mailto:prashantmadival582@gmail.com)**
 * 💼 Open to **Internships & Entry-Level Software Developer Roles**
 
 <br><br>
